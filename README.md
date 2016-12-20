@@ -1,6 +1,6 @@
 # Código inicial para el ejemplo del video de youtube sobre el uso de Google Maps
 
-Espero que todo esta informacin te sea muy útil!
+Espero que todo esta información te sea muy útil!
 
 No te olvides seguirme en YouTube o visitar mis cursos en Udemy
 
